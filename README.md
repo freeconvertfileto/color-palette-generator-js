@@ -2,7 +2,7 @@
 
 Generate harmonious 5-color palettes from a base color using six color theory schemes, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/color-palette-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/color-palette-generator-online
 
 ## How It Works
 
